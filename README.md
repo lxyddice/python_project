@@ -6,6 +6,6 @@
 
 （透过口球）..请..大....人....不...要......么...做....！...冰....晶.啊..怕...疼....！</code>
 
-### main:kouqiu.py
+### [https://github.com/lxyddice/python_project/blob/main/kouqiu.py](https://github.com/lxyddice/python_project/blob/main/kouqiu.py)
 
 <code>python kouqiu.py</code>
