@@ -2,9 +2,9 @@
 
 ## 口球！使输出字符添加奇怪的字符效果，就像戴了口球一样
 
-<code>请输入字符串: 请大人不要这么做！冰晶怕疼！
+<code>请输入字符串: 请大人不要这么做！冰晶怕疼！</code>
 
-（透过口球）..请..大....人....不...要......么...做....！...冰....晶.啊..怕...疼....！</code>
+<code>（透过口球）..请..大....人....不...要......么...做....！...冰....晶.啊..怕...疼....！</code>
 
 ### [https://github.com/lxyddice/python_project/blob/main/kouqiu.py](https://github.com/lxyddice/python_project/blob/main/kouqiu.py)
 
