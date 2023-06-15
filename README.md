@@ -12,6 +12,10 @@
 
 ## 用户目录拉屎！在用户目录/f/下拉屎，生成无意义文件占用磁盘恶心人
 
+可以稍作修改，生成随机文件夹，更恶心人
+
+不支持这么做！强烈谴责QAQ！
+
 ### [https://github.com/lxyddice/python_project/blob/main/shit_file.py](https://github.com/lxyddice/python_project/blob/main/shit_file.py)
 
 <code>python shit_file.py</code>
