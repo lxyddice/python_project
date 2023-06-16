@@ -14,7 +14,7 @@
 
 可以稍作修改，生成随机文件夹，更恶心人
 
-不支持这么做！强烈谴责QAQ！
+不支持这么做！强烈谴责QAQ！我是帮人写的！
 
 ### [https://github.com/lxyddice/python_project/blob/main/shit_file.py](https://github.com/lxyddice/python_project/blob/main/shit_file.py)
 
