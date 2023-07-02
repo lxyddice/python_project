@@ -19,3 +19,11 @@
 ### [https://github.com/lxyddice/python_project/blob/main/shit_file.py](https://github.com/lxyddice/python_project/blob/main/shit_file.py)
 
 <code>python shit_file.py</code>
+
+## 喵~
+
+在你说的话后面自动加上喵并发送，然后切换回去，适用于聊天软件
+
+### [https://github.com/lxyddice/python_project/blob/main/miao.py](https://github.com/lxyddice/python_project/blob/main/miao.py)
+
+<code>python miao.py</code>
