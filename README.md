@@ -27,3 +27,11 @@
 ### [https://github.com/lxyddice/python_project/blob/main/miao.py](https://github.com/lxyddice/python_project/blob/main/miao.py)
 
 <code>python miao.py</code>
+
+## pyts~
+
+方便自制干员的数值生成器，用于<del>prts</del>prtt
+
+### [https://github.com/lxyddice/python_project/blob/main/miao.py](https://github.com/lxyddice/python_project/blob/main/pyts.py)
+
+<code>python miao.py</code>
